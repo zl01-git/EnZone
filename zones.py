@@ -58,4 +58,4 @@ circuts = [
 ]
 
 
-print(distance.geodesic([zone_0.lat, zone_0.long], [zone_1.lat, zone_1.long]).km)
+# print(distance.geodesic([zone_0.lat, zone_0.long], [zone_1.lat, zone_1.long]).km)
